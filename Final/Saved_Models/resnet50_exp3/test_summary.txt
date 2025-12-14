@@ -1,2 +1,0 @@
-Test Accuracy: 79.49%
-Inference Time (sec): 17.27

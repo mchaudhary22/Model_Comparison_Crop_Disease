@@ -1,2 +1,0 @@
-Total training time (minutes): 907.48
-Best validation accuracy: 0.8309
