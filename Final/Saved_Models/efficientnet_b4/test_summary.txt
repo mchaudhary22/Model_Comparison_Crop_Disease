@@ -1,0 +1,5 @@
+Test Accuracy: 70.51%
+Inference Time (sec): 7.03
+
+
+epoch 14/45 ----- 4:54:46

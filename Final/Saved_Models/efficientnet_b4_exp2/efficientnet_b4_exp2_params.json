@@ -1,0 +1,10 @@
+{
+    "num_epochs": 60,
+    "learning_rate": 0.0005,
+    "weight_decay": 5e-05,
+    "optimizer": "SGD",
+    "batch_size": 64,
+    "dropout": 0.25,
+    "image_size": 224,
+    "num_classes": 5
+}
