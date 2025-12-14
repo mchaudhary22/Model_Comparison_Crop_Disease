@@ -7,7 +7,7 @@ datasets/
 *.pth
 
 # Models
-models/
+Final/Saved_Models/
 checkpoints/
 
 # Python cache
